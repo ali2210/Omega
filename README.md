@@ -15,6 +15,4 @@ Mr Kyoashi is very famous man, he recently open new lab in spain , which can per
   ## Instructions Dowload ZIP
        1. Open link
        2. Download 
-       3. Import in Unity > V18.0 
-                  Select Edit> Import Assets> Custom Package
-       4. Click Play Mode
+       3. Enjoy
